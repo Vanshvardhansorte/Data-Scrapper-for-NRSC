@@ -254,7 +254,7 @@ def main():
 
     else:
         st.info("Configure the parameters in the sidebar and click 'Run Pipeline' to see results.")
-        st.image("https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1000", caption="OMG Intelligence Ready")
+        st.image("https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1000", caption="Intelligence Ready")
 
 if __name__ == "__main__":
     # Ensure the script is run correctly via Streamlit
