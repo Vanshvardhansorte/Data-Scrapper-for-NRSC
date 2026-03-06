@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔖 **OMG Data Pipeline** 
+# 🔖 ** Data Pipeline** 
 ## 🌐 *Universal Web Intelligence & Automated Data Structuring Tool*
 
 [![Streamlit App](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=streamlit&logoColor=white)](https://omgdatapipeline.streamlit.app/)
@@ -12,7 +12,7 @@
 
 ## 🚀 **Project Overview**
 
-The **OMG Data Pipeline** is a comprehensive intelligence tool designed to bridge the gap between raw web data and structured analysis. Originally conceptualized for high-integrity environments, this **universal scraper** automates the **Extraction, Structuring, and Cleaning** of information from **any public URL**.
+The ** Data Pipeline** is a comprehensive intelligence tool designed to bridge the gap between raw web data and structured analysis. Originally conceptualized for high-integrity environments, this **universal scraper** automates the **Extraction, Structuring, and Cleaning** of information from **any public URL**.
 
 By utilizing a **dual-engine approach**:
 - **Selenium** for dynamic JS rendering
@@ -66,7 +66,7 @@ Cleaning — Deduplication
 
 ## 🔖 Signature
 
-**OMG — Automated Intelligence Environment**  
+**Automated Intelligence Environment**  
 Optimized for Universal Web Intelligence  
 
 <div align="center">
