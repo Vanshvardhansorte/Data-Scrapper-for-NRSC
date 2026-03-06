@@ -3,7 +3,7 @@
 # 🔖 ** Data Pipeline** 
 ## 🌐 *Universal Web Intelligence & Automated Data Structuring Tool*
 
-[![Streamlit App](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=streamlit&logoColor=white)](https://omgdatapipeline.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=streamlit&logoColor=white)](https://data-scrapper-for-nrsc-jjessmsgso9fzji2d3jhqc.streamlit.app/)
 
 
 </div>
